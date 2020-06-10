@@ -6,7 +6,7 @@ Plus, I made all the [course slides available for download](slides-students-C04.
 
 👇 **_Please read the following Frequently Asked Questions (FAQ) carefully before starting the course_** 👇
 
-## FAQ
+## FAQs
 
 ### Q1: How do I download the files?
 
